@@ -32,21 +32,75 @@ I enjoy exploring security challenges, understanding system architecture, automa
 
 PROGRAMMING & SCRIPTING
 
-<img src="https://skillicons.dev/icons?i=python,bash&theme=dark" alt="Python and Bash"/>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" alt="Python"/>
+        <br/>
+        <strong>Python</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="50" alt="Bash"/>
+        <br/>
+        <strong>Bash</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 SECURITY & NETWORKING
 
 <img src="https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=ff6633"/>
 <img src="https://img.shields.io/badge/Web_Security-111111?style=for-the-badge&logo=owasp&logoColor=00ff99"/>
 <img src="https://img.shields.io/badge/Networking-111111?style=for-the-badge&logo=cisco&logoColor=00ff99"/>
+<img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=2596CD" alt="Metasploit"/>
+<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=linux&logoColor=00FF99" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Nessus-111111?style=for-the-badge&logo=tenable&logoColor=00B8D9" alt="Nessus"/>
+<img src="https://img.shields.io/badge/VirusTotal-111111?style=for-the-badge&logo=virustotal&logoColor=394EFF" alt="VirusTotal"/>
+<img src="https://img.shields.io/badge/Aircrack--ng-111111?style=for-the-badge&logo=linux&logoColor=00FF99" alt="Aircrack-ng"/>
 
 SYSTEMS & DEVELOPMENT
+<div align="center">
+  <table>
+    <tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=kali&theme=dark" width="50" alt="Kali Linux"/>
+  <br/>
+  <strong>Kali Linux</strong>
+</td>
 
-<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,git,github,vscode,docker&theme=dark" alt="Development tools and operating systems"/>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="50" alt="Ubuntu"/>
+  <br/>
+  <strong>Ubuntu</strong>
+</td>
+
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" width="50" alt="Windows"/>
+  <br/>
+  <strong>Windows</strong>
+</td>
+
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" alt="VS Code"/>
+  <br/>
+  <strong>VS Code</strong>
+</td>
+
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" alt="GitHub"/>
+  <br/>
+  <strong>GitHub</strong>
+</td>
+   </tr>
+  </table>
+</div>
 
 </div>
 
-02 / RESEARCH DOMAINS
+RESEARCH DOMAINS
 
 <table>
 <tr>
