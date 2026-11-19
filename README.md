@@ -225,7 +225,7 @@ RESEARCH PUBLICATION
 <div align="center">
 
 <strong>
-    Wall Crack Detection, Solution Recommendation and Early Mold Detection Using Image Processing
+   📖 Wall Crack Detection, Solution Recommendation and Early Mold Detection Using Image Processing
   </strong>
 <br/><br/>
 <a href="YOUR_PAPER_URL">
