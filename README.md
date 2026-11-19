@@ -10,19 +10,15 @@
 
 <br/>
 
-<a href="https://www.youtube.com/@Scratch_malayalam">
-<img src="https://img.shields.io/badge/YOUTUBE-CHANNEL-ff0033?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://www.linkedin.com/in/naseemsv/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<img src="https://img.shields.io/badge/BASED_IN-INDIA-00ff99?style=for-the-badge&labelColor=101010"/>
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY%20&%20DEVOPS-00ff99?style=for-the-badge&labelColor=101010"/>
 
 </div>
 
 <div align="center">
 
 THE PERSON BEHIND THE TERMINAL
-
-Not just interested in technology. Interested in understanding what happens beneath the surface.
 
 </div>
 
