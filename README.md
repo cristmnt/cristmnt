@@ -22,17 +22,11 @@ THE PERSON BEHIND THE TERMINAL
 
 </div>
 
-I'm Scratch, a Cybersecurity Researcher interested in ethical hacking, web application security, bug bounty hunting, and security research.
+I'm **[`Naseem Swabah V`](https://www.linkedin.com/in/naseemsv/)**, a B.Tech Computer Science and Engineering graduate and Certified Ethical Hacker, with a strong interest in Cybersecurity and DevOps.
 
-I enjoy exploring how applications work, understanding security concepts, studying vulnerabilities, and learning how digital systems can be better protected.
+My technical interests include ethical hacking, web application security, vulnerability assessment, Linux administration, networking, infrastructure automation, and DevSecOps.
 
-My approach is simple:
-
-Explore — Understand systems and technologies.
-Research — Study security concepts and vulnerabilities.
-Build — Develop technical skills and practical projects.
-Secure — Apply knowledge responsibly.
-01 / TECHNICAL EXPERTISE
+I enjoy exploring security challenges, understanding system architecture, automating workflows, and continuously expanding my technical knowledge across cybersecurity and modern infrastructure technologies.
 
 <div align="center">
 
