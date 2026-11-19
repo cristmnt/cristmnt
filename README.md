@@ -280,7 +280,7 @@ Interested in cybersecurity, technology, research, or knowledge sharing?
 <br/>
 
 <a href="https://www.linkedin.com/in/naseemsv/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/TWITTER-FOLLOW_ME-000000?style=for-the-badge&logo=x&logoColor=white"/></a>&nbsp;
+<a href="https://x.com/cristmnt"><img src="https://img.shields.io/badge/TWITTER-FOLLOW_ME-000000?style=for-the-badge&logo=x&logoColor=white"/></a>&nbsp;
 <a href="YOUR_TRYHACKME_URL"><img src="https://img.shields.io/badge/TRYHACKME-VIEW_MY_PROFILE-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>&nbsp;
 <a href="https://www.youtube.com/@Scratch_malayalam"><img src="https://img.shields.io/badge/YOUTUBE-WATCH_MY_CONTENT-FF0033?style=for-the-badge&logo=youtube&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/"><img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-white?style=for-the-badge&logo=github&logoColor=black"/></a>
