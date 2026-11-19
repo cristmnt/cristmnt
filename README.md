@@ -220,6 +220,20 @@ View Repository
 </tr>
 </table>
 
+RESEARCH PUBLICATION
+
+<div align="center">
+
+<strong>
+    Wall Crack Detection, Solution Recommendation and Early Mold Detection Using Image Processing
+  </strong>
+<br/><br/>
+<a href="YOUR_PAPER_URL">
+  <img src="https://img.shields.io/badge/IJNRD-VIEW%20PAPER-FF0033?style=for-the-badge&labelColor=050505&logo=readthedocs&logoColor=FF0033" alt="IJNRD View Paper"/>
+</a>
+
+</div>
+
 04 / CERTIFICATIONS & CREDENTIALS
 
 <div align="center">
