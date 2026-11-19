@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:050505,50:003b29,100:00ff99&text=NASEEM%20SWABAH%20V&fontColor=ffffff&fontSize=75&fontAlignY=45&desc=CYBERSECURITY%20RESEARCHER&descSize=18&descAlignY=65&animation=fadeIn" width="100%" alt="Naseem Swabah V cybersecurity banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:050505,50:003b29,100:00ff99&text=NASEEM%20SWABAH%20V&fontColor=ffffff&fontSize=75&fontAlignY=45&desc=CYBERSECURITY%20AND%20DEVOPS%20ENGINEER&descSize=18&descAlignY=65&animation=fadeIn" width="100%" alt="Naseem Swabah V cybersecurity banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00FF99&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+workspace.;Cybersecurity+%7C+Web+Security+%7C+Research;Curiosity+is+my+greatest+exploit.;Learn.+Explore.+Understand.+Secure." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00FF99&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+workspace.;Cybersecurity+%7C+DevOps+%7C+DevSecOps;Curiosity+is+my+greatest+exploit.;Learn.+Explore.+Understand.+Secure." alt="Typing animation"/>
 
 <br/>
 
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/YOUTUBE-CHANNEL-ff0033?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 <img src="https://img.shields.io/badge/BASED_IN-INDIA-00ff99?style=for-the-badge&labelColor=101010"/>
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00ff99?style=for-the-badge&labelColor=101010"/>
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY%20&%20DEVOPS-00ff99?style=for-the-badge&labelColor=101010"/>
 
 </div>
 
