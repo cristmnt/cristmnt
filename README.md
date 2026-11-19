@@ -234,38 +234,42 @@ RESEARCH PUBLICATION
 
 </div>
 
-04 / CERTIFICATIONS & CREDENTIALS
 
-<div align="center">
 
-<img src="https://img.shields.io/badge/CERTIFICATIONS-ADD_VERIFIED_CREDENTIALS-00ff99?style=for-the-badge&labelColor=101010"/>
 
-</div>
 
-Add your verified certifications here, including the certification name and credential link.
 
-05 / CURRENT LEARNING
-text
-[01] Web Application Security
-[02] Vulnerability Research
-[03] Python & Security Automation
-[04] Networking Fundamentals
-[05] Linux & System Security
+CERTIFICATIONS & CREDENTIALS
 
-06 / BEYOND THE TERMINAL
+<table>
+  <tr>
+    <td align="center">
+      <b>🐍 Python Programming</b>
+    </td>
+    <td align="center">
+      <a href="YOUR_CERTIFICATE_LINK">🔗 View Certificate</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🌐 Web Development</b>
+    </td>
+    <td align="center">
+      <a href="YOUR_CERTIFICATE_LINK">🔗 View Certificate</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>☕ Java Programming</b>
+    </td>
+    <td align="center">
+      <a href="YOUR_CERTIFICATE_LINK">🔗 View Certificate</a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
 
-<img src="https://img.shields.io/badge/CONTINUOUS_LEARNING-ON-00ff99?style=flat-square&labelColor=101010"/>
-<img src="https://img.shields.io/badge/RESPONSIBLE_RESEARCH-ALWAYS-00ff99?style=flat-square&labelColor=101010"/>
-
-</div>
-
-I believe knowledge becomes more valuable when shared.
-
-Through my cybersecurity content, I aim to make technical concepts easier to understand and encourage responsible security awareness.
-
-07 / LET'S CONNECT
+LET'S CONNECT
 
 <div align="center">
 
