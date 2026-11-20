@@ -234,39 +234,12 @@ RESEARCH PUBLICATION
 
 </div>
 
-
-
-
-
-
 CERTIFICATIONS & CREDENTIALS
 
-<table>
-  <tr>
-    <td align="center">
-      <b>🐍 Python Programming</b>
-    </td>
-    <td align="center">
-      <a href="YOUR_CERTIFICATE_LINK">🔗 View Certificate</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>🌐 Web Development</b>
-    </td>
-    <td align="center">
-      <a href="YOUR_CERTIFICATE_LINK">🔗 View Certificate</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>☕ Java Programming</b>
-    </td>
-    <td align="center">
-      <a href="YOUR_CERTIFICATE_LINK">🔗 View Certificate</a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+<img src="https://img.shields.io/badge/CCSEH-Certified-00C853?style=for-the-badge" alt="CCSEH" />
+<img src="https://img.shields.io/badge/Cisco_Cybersecurity_Essentials-Certified-00C853?style=for-the-badge" alt="Cisco Cybersecurity Essentials" />
+</p>
 
 
 LET'S CONNECT
@@ -282,7 +255,6 @@ Interested in cybersecurity, technology, research, or knowledge sharing?
 <a href="https://www.linkedin.com/in/naseemsv/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://x.com/cristmnt/"><img src="https://img.shields.io/badge/TWITTER-FOLLOW_ME-000000?style=for-the-badge&logo=x&logoColor=white"/></a>&nbsp;
 <a href="https://tryhackme.com/p/cristmnt/"><img src="https://img.shields.io/badge/TRYHACKME-VIEW_MY_PROFILE-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>&nbsp;
-<a href="https://www.youtube.com/@cristmnt/"><img src="https://img.shields.io/badge/YOUTUBE-WATCH_MY_CONTENT-FF0033?style=for-the-badge&logo=youtube&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/cristmnt/"><img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-white?style=for-the-badge&logo=github&logoColor=black"/></a>
 
 </div>
@@ -302,7 +274,7 @@ I'M HERE TO UNDERSTAND THEM.
 
 <code>THINK DIFFERENTLY // RESEARCH RESPONSIBLY // KEEP LEARNING</code>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003b29,100:00ff99&height=110&section=footer" width="100%" alt="Footer"/>
 
