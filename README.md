@@ -153,7 +153,7 @@ Exploring Linux environments, command-line tools, and system administration.
 </tr>
 </table>
 
-03 / SELECTED WORK
+SELECTED WORK
 
 <div align="center">
 
